@@ -1,0 +1,15 @@
+{
+  "terminal.integrated.defaultProfile.windows": "PowerShell",
+  "terminal.integrated.profiles.windows": {
+    "PowerShell": {
+      "source": "PowerShell",
+      "icon": "terminal-powershell"
+    }
+  },
+  "terminal.integrated.env.windows": {
+    "PATH": "${env:USERPROFILE}\\bin;${env:PATH}"
+  },
+  "terminal.integrated.inheritEnv": true,
+  "terminal.integrated.scrollback": 10000,
+  "python.terminal.activateEnvironment": false
+}
