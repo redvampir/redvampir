@@ -26,13 +26,6 @@
 
 ---
 
-### 📊 GitHub Статистика
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=redvampir&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redvampir&layout=compact&theme=radical&hide_border=true"/>
-
----
-
 ### 📫 Связаться со мной
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/PavelKrovorov)
