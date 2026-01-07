@@ -15,33 +15,69 @@
 
 ---
 
-### 🛠 Технологии
+<p align="center">
+	<img src="https://placehold.co/720x280/0f172a/ffffff.png?text=Demo+Preview" alt="demo" width="720"/>
+  
+	<h1 align="center">redvampir — Projects & Prototypes</h1>
+	<p align="center">Игры, плагины для VS Code и эксперименты с нейросетями — всё в одном месте.</p>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+	<p align="center">
+		<a href="https://github.com/redvampir/redvampir"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" alt="repo"/></a>
+		<a href="https://github.com/redvampir/bukvy-game"><img src="https://img.shields.io/badge/Play-Bukvy%20Game-4CAF50?style=for-the-badge" alt="bukvy-game"/></a>
+		<a href="https://github.com/redvampir/Neira_prototap"><img src="https://img.shields.io/badge/AI-Neira%20Prototype-7E57C2?style=for-the-badge" alt="neira"/></a>
+	</p>
+
+	<p align="center">
+		<img src="https://img.shields.io/github/stars/redvampir/redvampir?style=flat-square" alt="stars"/>
+		<img src="https://img.shields.io/github/license/redvampir/redvampir?style=flat-square" alt="license"/>
+		<img src="https://img.shields.io/badge/status-experimental-yellow?style=flat-square" alt="status"/>
+	</p>
+</p>
 
 ---
 
-<<<<<<< Updated upstream
-=======
-### 📊 GitHub Статистика
+## Что внутри (быстро)
 
-![GitHub stats](assets/github-readme-stats.png)
-![Top languages](assets/github-top-langs.png)
+- 🎮 Bukvy Game — готовая обучающая игра: https://github.com/redvampir/bukvy-game
+- 🤖 Neira_prototap — прототип вашей нейросети и эксперименты: https://github.com/redvampir/Neira_prototap
+- 🧩 multicode — прототип плагина для VS Code: https://github.com/redvampir/multicode
+- 🧠 sofia-memory-plugin — плагин памяти для нейросетей: https://github.com/redvampir/sofia-memory-plugin
 
 ---
 
->>>>>>> Stashed changes
-### 📫 Связаться со мной
+## Ключевые моменты
+
+- Быстрые прототипы и эксперименты
+- Игровые проекты — готовый продукт и идеи
+- Интеграции с VS Code и исследования в NLP/NN
+
+---
+
+## Быстрый старт
+
+```bash
+git clone https://github.com/redvampir/redvampir.git
+cd redvampir
+# Откройте нужный репозиторий внутри папки или смотрите инструкции в конкретных репах
+```
+
+---
+
+## Связанные проекты
+
+- [bukvy-game](https://github.com/redvampir/bukvy-game) — готовая игра, хорошо подходит для демонстрации и публикуемых релизов.
+- [Neira_prototap](https://github.com/redvampir/Neira_prototap) — прототип ИИ, эксперименты и заметки по архитектуре.
+- [multicode](https://github.com/redvampir/multicode) — прототип расширения для VS Code, идеи для интеграции.
+- [sofia-memory-plugin](https://github.com/redvampir/sofia-memory-plugin) — плагин памяти для нейросетей, вспомогательные утилиты.
+
+---
+
+## Статистика и контакты
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=redvampir&show_icons=true&theme=dark)
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/PavelKrovorov)
 
 ---
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
-
-</div>
+_Если хотите — заменю заглушку GIF на ваш реальный скрин/анимацию. Готов также отшлифовать текст и цвета._
