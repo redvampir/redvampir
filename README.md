@@ -1,36 +1,22 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Привет,%20я%20Павел!&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Web-разработчик%20|%20VS%20Code%20Plugins%20|%20Neural%20Networks&descSize=16&descAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200§ion=header&text=Привет,%20я%20Павел!&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Web-разработчик%20|%20VS%20Code%20Plugins%20|%20Neural%20Networks&descSize=16&descAlignY=55)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=Junior+Web+Developer;VS+Code+Plugin+Creator;Neural+Network+Explorer;Always+Learning+New+Things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7¢er=true&vCenter=true&random=false&width=600&lines=Junior+Web+Developer;VS+Code+Plugin+Creator;Neural+Network+Explorer;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 ---
 
 ### 🚀 Обо мне
 
-🌐 Web-разработчик на старте карьеры  
-🧩 Создаю плагины для VS Code  
-🤖 Разрабатываю свою нейросеть  
+🌐 Web-разработчик на старте карьеры
+🧩 Создаю плагины для VS Code
+🤖 Разрабатываю свою нейросеть
 📚 Постоянно учусь и экспериментирую
 
----
+<div align="center">
 
-<p align="center">
-	<h1 align="center">redvampir — Projects & Prototypes</h1>
-	<p align="center">Игры, плагины для VS Code и эксперименты с нейросетями — всё в одном месте.</p>
-
-	<p align="center">
-		<a href="https://github.com/redvampir/redvampir"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" alt="repo"/></a>
-		<a href="https://github.com/redvampir/bukvy-game"><img src="https://img.shields.io/badge/Play-Bukvy%20Game-4CAF50?style=for-the-badge" alt="bukvy-game"/></a>
-		<a href="https://github.com/redvampir/Neira_prototap"><img src="https://img.shields.io/badge/AI-Neira%20Prototype-7E57C2?style=for-the-badge" alt="neira"/></a>
-	</p>
-
-	<p align="center">
-		<img src="https://img.shields.io/github/stars/redvampir/redvampir?style=flat-square" alt="stars"/>
-		<img src="https://img.shields.io/github/license/redvampir/redvampir?style=flat-square" alt="license"/>
-		<img src="https://img.shields.io/badge/status-experimental-yellow?style=flat-square" alt="status"/>
-	</p>
-</p>
+<h1 align="center">redvampir — Projects & Prototypes</h1>
+<p align="center">Игры, плагины для VS Code и эксперименты с нейросетями — всё в одном месте.</p>
 
 ---
 
@@ -72,7 +58,6 @@ cd redvampir
 
 ## Статистика и контакты
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=redvampir&show_icons=true&theme=dark)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/PavelKrovorov)</div>
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/PavelKrovorov)
-
+</div>
