@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200§ion=header&text=Привет,%20я%20Павел!&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Web-разработчик%20|%20VS%20Code%20Plugins%20|%20Neural%20Networks&descSize=16&descAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200§ion=header&text=Привет,%20я%20Павел!&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=25&desc=Web-разработчик%20|%20VS%20Code%20Plugins%20|%20Neural%20Networks&descSize=16&descAlignY=55)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7¢er=true&vCenter=true&random=false&width=600&lines=Junior+Web+Developer;VS+Code+Plugin+Creator;Neural+Network+Explorer;Always+Learning+New+Things)](https://git.io/typing-svg)
 
