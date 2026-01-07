@@ -16,8 +16,6 @@
 ---
 
 <p align="center">
-	<img src="https://placehold.co/720x280/0f172a/ffffff.png?text=Demo+Preview" alt="demo" width="720"/>
-  
 	<h1 align="center">redvampir — Projects & Prototypes</h1>
 	<p align="center">Игры, плагины для VS Code и эксперименты с нейросетями — всё в одном месте.</p>
 
@@ -80,4 +78,4 @@ cd redvampir
 
 ---
 
-_Если хотите — заменю заглушку GIF на ваш реальный скрин/анимацию. Готов также отшлифовать текст и цвета._
+_Готов отшлифовать текст и цвета по желанию._
