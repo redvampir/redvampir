@@ -23,7 +23,6 @@
 ## Что внутри (быстро)
 
 - 🎮 Bukvy Game — готовая обучающая игра: https://github.com/redvampir/bukvy-game
-- 🤖 Neira_prototap — прототип вашей нейросети и эксперименты: https://github.com/redvampir/Neira_prototap
 - 🧩 multicode — прототип плагина для VS Code: https://github.com/redvampir/multicode
 - 🧠 sofia-memory-plugin — плагин памяти для нейросетей: https://github.com/redvampir/sofia-memory-plugin
 
